@@ -1,0 +1,20 @@
+﻿Source,Destination,Distance
+Central Hub A,State Center C,25
+Central Hub A,State Center D,67
+Central Hub B,State Center C,23
+Central Hub B,State Center D,65
+State Center C,Area Hub E,56
+State Center C,Area Hub F,234
+State Center C,Area Hub G,345
+State Center D,Area Hub E,654
+State Center D,Area Hub F,735
+State Center D,Area Hub G,456
+Area Hub E,Local Hub H,124
+Area Hub E,Local Hub I,865
+Area Hub E,Local Hub J,332
+Area Hub F,Local Hub H,456
+Area Hub F,Local Hub I,671
+Area Hub F,Local Hub J,382
+Area Hub G,Local Hub H,829
+Area Hub G,Local Hub I,294
+Area Hub G,Local Hub J,490
