@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "name": "Alice"
+    },
+    {
+      "id": "user2",
+      "name": "Bob"
+    },
+    {
+      "id": "user3",
+      "name": "Charlie"
+    }
+  ],
+  "friendships": [
+    {
+      "user1_id": "user1",
+      "user2_id": "user2"
+    },
+    {
+      "user1_id": "user2",
+      "user2_id": "user3"
+    }
+  ]
+}
